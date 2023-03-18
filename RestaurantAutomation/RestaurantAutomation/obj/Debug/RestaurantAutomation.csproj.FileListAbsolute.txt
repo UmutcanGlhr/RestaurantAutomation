@@ -1,0 +1,15 @@
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.exe.config
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.exe
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\RestaurantAutomation.pdb
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.AssemblyReference.cache
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Form1.resources
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Properties.Resources.resources
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.GenerateResource.cache
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.CoreCompileInputs.cache
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.exe
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.pdb
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Menu.resources
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\MySql.Data.dll
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\Google.Protobuf.dll
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\MySql.Data.xml
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.CopyComplete
