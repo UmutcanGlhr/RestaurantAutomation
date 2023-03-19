@@ -16,7 +16,7 @@ namespace RestaurantAutomation
         private static MySqlDataAdapter da = new MySqlDataAdapter();
         private static MySqlCommand cmd = new MySqlCommand();
 
-
+        
 
         public static void baglanti()
         {
@@ -31,14 +31,18 @@ namespace RestaurantAutomation
 
         public static object Command(string query)
         {
+            
             object obj;
             cmd.Connection = con; 
             cmd.CommandText = query; 
             obj = cmd.ExecuteScalar();
+            
             return obj;
         }
 
-        
+
+
+
        
     }
 }

@@ -13,3 +13,5 @@ C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\
 C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\Google.Protobuf.dll
 C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\bin\Debug\MySql.Data.xml
 C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.csproj.CopyComplete
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.islem.resources
+C:\Users\umutc\source\repos\RestaurantAutomation\RestaurantAutomation\obj\Debug\RestaurantAutomation.Masalar.resources

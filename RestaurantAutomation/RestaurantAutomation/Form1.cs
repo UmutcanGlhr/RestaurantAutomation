@@ -38,5 +38,14 @@ namespace RestaurantAutomation
             Menu mnu = new Menu();
             mnu.Show();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            
+            Masalar tbl = new Masalar();
+            
+            tbl.Show();
+
+        }
     }
 }
