@@ -28,7 +28,7 @@ namespace RestaurantAutomation
             gridac();
             con.Open();
             MySqlCommand cmd = new MySqlCommand("Select urunadi from menu",con);
-
+            label5.Text = masano ;
             MySqlDataReader reader = cmd.ExecuteReader();
 
             while (reader.Read())
@@ -63,13 +63,18 @@ namespace RestaurantAutomation
 
             if (comboBox1.Text!=""&&comboBox2.Text!="")
             {
-                MySqlCon.Command("Inset Into "+masano+" (urunadi,urunfiyati,urunadedi) values ('"+comboBox1.Text+"','"+urun+"','"+comboBox2.Text+"')");
-                gridac();
+                MySqlCon.baglanti();
+                MySqlCon.Command("Insert Into "+masano+"(urunadı,urunfiyati,urunadedi) values ('"+comboBox1.Text+"','"+urun+"','"+comboBox2.Text+"')");
+                
+                
+
+                
             }
             else
             {
                 MessageBox.Show("Boş Alan ");
             }
+            con.Close();
         }
 
 

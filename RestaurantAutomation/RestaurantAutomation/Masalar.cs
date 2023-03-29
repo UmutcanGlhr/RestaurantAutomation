@@ -25,5 +25,13 @@ namespace RestaurantAutomation
             islm.Show();
             
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            string no = "masa2";
+            islem islm = new islem();
+            islm.urunleriAl(no);
+            islm.Show();
+        }
     }
 }
